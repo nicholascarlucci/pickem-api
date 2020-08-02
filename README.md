@@ -8,3 +8,5 @@ Node + Express back-end API that will allow us to connect front end to PostgreSQ
 
 - Install PostgreSQL for Windows [here](https://www.postgresql.org/download/windows/)
 - TODO: script out initial database creation
+
+**Important:** Models is currently excluded from git repository because of sensitive info
