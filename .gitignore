@@ -1,5 +1,10 @@
 # dependencies
-/node_modules
+node_modules
 
-# sensitive information
-/models
+#env
+.env
+
+#db stuff to hide
+**/mikro-orm.config.ts
+**/mikro-orm.config.js
+**/mikro-orm.config.js.map
